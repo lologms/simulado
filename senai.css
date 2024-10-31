@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;;
+
+    padding: 244px;
+    background-color: #acc6f5;
+    background-image: url("https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/hello-kitt-perfil.jpg?w=1054");
+    text-align: center;
+    
+    
+}
+.container{
+    
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px;
+    background-color: rgb(212, 116, 196);
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    color: rgb(161, 84, 100);
+}
+h1{
+    color: rgb(214, 207, 208);
+}
+
+button{
+    background-color: rgb(230, 120, 142);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+
